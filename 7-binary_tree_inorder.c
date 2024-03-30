@@ -2,8 +2,8 @@
 
 /**
  * binary_tree_inorder - in-order traversal
- * @tree: traverse tree
- * @func: ptr func
+ * @tree: tree to traverse
+ * @func: pointer to functione
  */
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 {

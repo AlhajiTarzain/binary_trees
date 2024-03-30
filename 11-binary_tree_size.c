@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_size - checks tree size
- * @tree: tree 
+ * @tree: tree
  *
  * Return: size of the tree
  */
